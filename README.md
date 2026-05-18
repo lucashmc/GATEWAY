@@ -8,7 +8,7 @@ NOME: Lucas Henrique Moraes Costa
 
 NOME: João victor Carvalho Da Silva 
 
-NOME:  Mathes Olavo 
+NOME:  Matheus Olavo 
 ## Estrutura
 
 - `gateway/` - servidor proxy (porta 3000)
